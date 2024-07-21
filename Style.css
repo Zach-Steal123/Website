@@ -15,3 +15,6 @@ hr {
 h1 {
   text-align: center;
 }
+a:hover {
+  color: red;
+}
