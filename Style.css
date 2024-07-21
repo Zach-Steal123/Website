@@ -1,0 +1,17 @@
+body {
+  background-color: lightyellow;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 20px;
+  padding: 20px;
+}
+hr {
+  border-color: black;
+}
+.ireland {
+  color: green;
+  font-weight: bolder;
+}
+h1 {
+  text-align: center;
+}
