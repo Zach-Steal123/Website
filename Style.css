@@ -27,3 +27,29 @@ a:hover {
 p {
   text-align: justify;
 }
+table {
+  background-color: black;
+}
+th {
+  background-color: lightblue;
+  padding: 25px;
+}
+tr {
+  padding: 50px;
+}
+/* .navbar {
+  list-style-type: none;
+  background-color: lightgreen;
+  text-align: center;
+  font-size: 40px;
+}
+li:hover {
+  color: white;
+  background-color: black;
+} */
+a:hover {
+  color: red;
+}
+a {
+  color: black;
+}
